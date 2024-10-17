@@ -10,7 +10,7 @@
 - https://github.com/JYU-digihum/clustering_open_responses
 
 ## WP3.4
-- Twitch Chat Data Collector https://collector-twitcher.rahtiapp.fi/
+- Twitch Chat Data Collector https://collector-twitcher.2.rahtiapp.fi/
 - Twitch Analysis Tool https://visual-twitcher.rahtiapp.fi/
 
 ## WP2.5
