@@ -11,7 +11,7 @@
 
 ## WP3.4
 - Twitch Chat Data Collector https://collector-twitcher.2.rahtiapp.fi/
-- Twitch Analysis Tool https://visual-twitcher.rahtiapp.fi/
+- Twitch Analysis Tool http://195.148.21.237:8501/ (temporary url)
 
 ## WP2.5
 - CEFR (The Common European Framework of Reference for Languages) classifier for written text – coming up later!
