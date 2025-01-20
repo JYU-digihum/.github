@@ -1,7 +1,8 @@
+
 # Tools developed during FIN-CLARIAH 2022-2025
 
 ## For archival data
-- FinBERT-NER https://huggingface.co/Kansallisarkisto/finbert-ner/
+- FinBERT-NER https://huggingface.co/Kansallisarkisto/finbert-ner/ 
 - Arkkiivi interface for FinBERT-NER https://arkkiivi.fi/ 
 
 ## For livestream data
@@ -15,3 +16,5 @@
 - CEFR (The Common European Framework of Reference for Languages) classifier for written text – coming up soon!
 
 More information on FIN-CLARIAH can be found in [here](https://www.jyu.fi/fi/hankkeet/fin-clariah).
+
+You can also find us on Huggingface: https://huggingface.co/jyu-digihum/!
